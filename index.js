@@ -1,10 +1,6 @@
 /**
- * DemoMed Assessment Solver
- * Run:
- *   node index.js
- *
- * Optional env:
- *   API_KEY=ak_... node index.js
+ * Robbie Sherre Demo
+
  */
 
 const BASE_URL = 'https://assessment.ksensetech.com/api';
